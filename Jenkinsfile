@@ -3,12 +3,12 @@ pipeline{
     stages{
         stage("test1"){
         steps{
-            echo "trying to get this"
+            echo "trying to get this so that we can test in November"
         }
         }
         stage("test2"){
         steps{
-            echo "I need practice"
+            echo "I need practice and we need Monica to help us"
         }
         }
         stage("test3"){
